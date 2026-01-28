@@ -1,0 +1,29 @@
+# Ignore Windows reserved device names
+nul
+client/nul
+
+# Ignore nested git repositories
+ecommerce-backend/.git/
+
+# Node modules
+node_modules/
+client/node_modules/
+
+# Build outputs
+ecommerce-backend/target/
+client/dist/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Environment files
+.env
+.env.local
+
+# Uploads
+ecommerce-backend/uploads/
+
+# Logs
+*.log

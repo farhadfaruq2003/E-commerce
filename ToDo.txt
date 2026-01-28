@@ -1,0 +1,9 @@
+Client:
+npm install
+npm run dev
+
+
+.\apache-maven-3.9.6\bin\mvn.cmd spring-boot:run
+
+.\apache-maven-3.9.6\bin\mvn.cmd spring-boot:run
+
